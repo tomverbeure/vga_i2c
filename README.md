@@ -12,6 +12,8 @@ GPIO I2C expander to the I2C wires of the VGA cable.
 
 This project does exactly that!
 
+<iframe width="640" height="564" src="https://player.vimeo.com/video/315809161" frameborder="0" allowFullScreen mozallowfullscreen webkitAllowFullScreen></iframe>
+
 It's a VGA to VGA feedthru board that taps the I2C wires, adds an I2C GPIO expander, connects it
 to 2 Atari 2600 joystick ports, 4 additional switches and 2 LEDs.
 
