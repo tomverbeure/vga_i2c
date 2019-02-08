@@ -1,5 +1,7 @@
 # VGA I2C GPIO + Atari 2600 Joystick Extender
 
+** A detailed write-up about this project can be found [here](https://tomverbeure.github.io/2019/02/05/VGA-I2C-My-First-PCB.html). **
+
 The [Pano Logic G1](https://github.com/tomverbeure/panologic) doesn't have an easy
 way to add GPIOs or non-USB input devices.
 
